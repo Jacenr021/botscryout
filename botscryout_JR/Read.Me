@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Database Structure](#database-structure)
 - [Sample Data](#sample-data)
